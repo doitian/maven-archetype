@@ -1,0 +1,9 @@
+<archetype>
+  <id>scala-archetype-simple</id>
+  <sources>
+    <source>src/main/scala/App.scala</source>
+  </sources>
+  <testSources>
+    <source>src/test/scala/ScalaTest.scala</source>
+  </testSources>
+</archetype>
